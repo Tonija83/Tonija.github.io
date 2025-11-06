@@ -3,6 +3,7 @@ Ich bin ein Python-Entwickler mit Leidenschaft für Spieleentwicklung, sauberen 
 
 ## 🕹️ Projekte
 - Hybrid load forecasting: https://github.com/Tonija83/hybrid-load-forecasting
+- Snake-Game: https://github.com/Tonija83/snake-game
 
 ## 💡 Skills
 - Python, Pygame, OOP
